@@ -1,43 +1,53 @@
-import * as model from './model.js'
-import recipeView from './recipeView.js';
+import * as model from './model.js';
+import RecipeView from './views/recipeView.js';
+import SearchView from './views/searchView.js';
+import ResultsView from './views/resultViews.js';
 
-import 'core-js/stable'
+import 'core-js/stable';
 import 'regenerator-runtime/runtime';
+import { async } from 'regenerator-runtime';
 
-const recipeContainer = document.querySelector('.recipe');
-
-const timeout = function (s) {
-  return new Promise(function (_, reject) {
-    setTimeout(function () {
-      reject(new Error(`Request took too long! Timeout after ${s} second`));
-    }, s * 1000);
-  });
-};
-
-// https://forkify-api.herokuapp.com/v2
-
-///////////////////////////////////////
-
-
+if(module.hot) {
+  module.hot.accept();
+}
 
 const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
-    console.log(id);
 
-    if(!id) return;
-    recipeView.renderSpinner()
+    if (!id) return;
+    RecipeView.renderSpinner();
     // 1) loading recipe
-   await model.loadRecipe(id);
+    await model.loadRecipe(id);
 
     // 2) rendering the recipe
-    recipeView.render(model.state.recipe);
+    RecipeView.render(model.state.recipe);
   } catch (err) {
-    alert(err);
+    RecipeView.renderError();
   }
 };
-  
-['hashchange', 'load'].forEach(ev => window.addEventListener(ev, controlRecipes))
 
-// window.addEventListener('hashchange', controlRecipes)
-// window.addEventListener('load', controlRecipes)
+const controlSearchResults = async function() {
+  try {
+    ResultsView.renderSpinner();
+
+    // 1) Get search query
+    const query = SearchView.getQuery();
+    if (!query) return;
+
+    // 2) Load search results
+    await model.loadSearchResults(query);
+
+    // 3) Render results
+    ResultsView.render(model.state.search.results);
+  } catch(err) {
+    console.log(err);
+  }
+};
+const init = function () {
+  RecipeView.addHandlerRender(controlRecipes);
+  SearchView.addHandlerSearch(controlSearchResults);
+};
+init();
+
+
