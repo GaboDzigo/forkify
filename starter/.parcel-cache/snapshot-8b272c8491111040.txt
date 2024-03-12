@@ -2,7 +2,7 @@
 152C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133539493646077170 0
 90C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\braces133539493624616469 1
 116C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\features\math\degrees.js133539493655650470 0
-97C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.e37f48ea.js.map133545556265984303 0
+97C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.e37f48ea.js.map133547410856871825 0
 118C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\features\weak-map\index.js133539493669809252 0
 131C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\transformer-image\lib\validateConfig.js133539493625517959 0
 104C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\resolve-from\license133539493620293282 0
@@ -39,7 +39,7 @@
 118C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\mdn-data\css\selectors.schema.json133539493634093368 0
 140C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133539493648099700 0
 110C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\csso\cjs\clean\Comment.cjs133539493630643353 0
-75C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist133545556265994257 1
+75C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist133547410856941643 1
 119C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\type-fest\source\readonly-deep.d.ts133539493635627048 0
 131C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133539493620002232 0
 121C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\stable\array\virtual\every.js133539493663396242 0
@@ -241,7 +241,7 @@
 125C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133539493644730841 0
 133C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\modules\es.symbol.is-concat-spreadable.js133539493660086717 0
 123C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133539493643192467 0
-91C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\src\js\controller.js133545548685328399 0
+91C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\src\js\controller.js133547409994375335 0
 110C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\source-map-js\package.json133539493629517779 0
 111C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\runtime-browser-hmr133539493626989971 1
 133C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin\svgo133539493690302403 0
@@ -361,7 +361,7 @@
 125C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\stable\number\max-safe-integer.js133539493677048969 0
 124C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\features\string\virtual\blink.js133539493651507259 0
 162C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeAttributesBySelector.js133539493639246950 0
-98C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\src\js\views\resultViews.js133543835521691400 0
+98C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\src\js\views\resultViews.js133547407830852868 0
 116C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\svgo\plugins\removeDimensions.js133539493643010786 0
 111C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\entities\lib\index.d.ts.map133539493632540924 0
 159C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertStyleToAttrs.js133539493634163511 0
@@ -378,7 +378,7 @@
 114C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\full\string\pad-end.js133539493678173383 0
 131C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\csso\lib\restructure\prepare\processSelector.js133539493644985728 0
 151C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.json133539493633457200 0
-91C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\src\js\views\View.js133543833722395917 0
+91C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\src\js\views\View.js133547410856230888 0
 115C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\full\iterator\filter.js133539493664020161 0
 106C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\picomatch\CHANGELOG.md133539493627458887 0
 139C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts133539493642814022 0
@@ -1989,7 +1989,7 @@
 111C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\regenerator-runtime\path.js133539493619874675 0
 110C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\mdn-data\css\syntaxes.json133539493634494603 0
 127C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133539493634793929 0
-98C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.f7626f62.css.map133545472916919075 0
+98C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.f7626f62.css.map133547402690725017 0
 138C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Comment.cjs133539493631785660 0
 126C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\css-tree\lib\tokenizer\OffsetToLocation.js133539493651771399 0
 122C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\es\reflect\set-prototype-of.js133539493681625330 0
@@ -2881,7 +2881,7 @@
 109C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\js-yaml\lib\type\pairs.js133539493634793929 0
 107C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\js-yaml\lib\type\seq.js133539493635375384 0
 122C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\full\instance\code-point-at.js133539493652664839 0
-94C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.f7626f62.css133545472916829072 0
+94C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.f7626f62.css133547402690685123 0
 111C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\events\lib\index.js133539493626283774 0
 125C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\modules\esnext.iterator.filter.js133539493661644686 0
 107C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\js-yaml\lib\type\str.js133539493637014225 0
@@ -4096,7 +4096,7 @@
 123C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\internals\is-data-descriptor.js133539493670954830 0
 119C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\stable\error\constructor.js133539493654291307 0
 117C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\css-tree\lib\lexer\match-graph.js133539493651577428 0
-93C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\logo.726d37a8.png133545472916829072 0
+93C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\logo.726d37a8.png133547402689672462 0
 122C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\stable\typed-array\subarray.js133539493685304315 0
 114C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\es\string\trim-left.js133539493688093942 0
 111C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\css-tree\lib\lexer\match.js133539493651577428 0
@@ -5110,7 +5110,7 @@
 143C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@swc\helpers\esm\_class_static_private_field_destructure.js133539493647842184 0
 124C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\stable\instance\code-point-at.js133539493652664839 0
 117C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\stable\instance\concat.js133539493653483423 0
-86C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.html133545472916829072 0
+86C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.html133547402690215044 0
 122C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\stable\instance\copy-within.js133539493654624292 0
 120C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\stable\instance\ends-with.js133539493656808247 0
 114C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\core-js\full\symbol\dispose.js133539493656348156 0
@@ -8867,7 +8867,7 @@
 136C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\path.js133539493638635302 0
 143C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\stringifier.js133539493643613815 0
 137C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\style.js133539493643855151 0
-96C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\favicon.8b2f57bf.png133545472917481990 0
+96C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\favicon.8b2f57bf.png133547402690225006 0
 104C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@lmdb\lmdb-win32-x64133539493633389930 1
 128C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo133539493645176104 1
 133C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo133539493645901346 1
@@ -9644,9 +9644,9 @@
 97C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\.bin\svgo.ps1133539493690302403 0
 111C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\.bin\update-browserslist-db133539493690302403 0
 115C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\node_modules\.bin\update-browserslist-db.ps1133539493690302403 0
-94C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\icons.21bad73c.svg133545472917875635 0
-94C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\icons.dfd7a6db.svg133545472916829072 0
 97C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.62406edb.js.map133537810142319316 0
 95C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\starter.3464ddca.js133537803396721815 0
 99C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\starter.3464ddca.js.map133537803396838955 0
-93C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.e37f48ea.js133545556265944389 0
+94C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\icons.dfd7a6db.svg133547402690705081 0
+94C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\icons.21bad73c.svg133547402690784851 0
+93C:\Users\DzigoFamily\Desktop\01-Fundamentals-Part-1\18-forkify\starter\dist\index.e37f48ea.js133547410856784311 0
