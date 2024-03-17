@@ -10,7 +10,7 @@ export default class View {
     this._data = data;
     const markup = this._generateMarkup();
 
-    if(!render) return markup;
+    if (!render) return markup;
 
     this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
@@ -40,7 +40,7 @@ export default class View {
       }
 
       // // Updates changed ATTRIBUTES
-      if (!newEl.isEqualNode(curEl)) 
+      if (!newEl.isEqualNode(curEl))
         Array.from(newEl.attributes).forEach(attr =>
           curEl.setAttribute(attr.name, attr.value)
         );
